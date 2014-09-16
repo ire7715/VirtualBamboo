@@ -1,0 +1,61 @@
+VirtualBamboo
+=============
+
+A virtual drawing board project on mobile device
+
+--------
+*** Please finish this document before you use VirtualBamboo ***
+
+How to install?
+
+  Windows side - 
+    All you need are in " VirtualBamboo_windows / release / ".
+    Copy them to anywhere in your computer and execute VirtualBamboo.jar.
+    Notify: do NOT change the file structure under release folder.
+    
+  Andoid side - 
+    You can copy and install the apk to your android device from " VirtualBamboo_android / bin / VirtualBamboo_android.apk ".
+    It's not available from google play, since I don't think it's enough mature to release to google play.
+    
+
+
+How to use?
+
+  1. Lauch the VirtualBamboo in your mobile device.
+  2. Execute the VirtualBamboo.jar in your computer.
+  3. Check the "Start connection"
+  4. Enjoy your drawing work!
+  
+  5. After your done, uncheck the "Start connection."
+  6. Close the jar on computer and app on mobile.
+  
+  Notify: It's not neccessery to follow the order of all these setps. But the probability of bugs occured can be reduced by following it.
+  
+
+Usage Detail:
+
+  Q: How to resize my drawing board on computer side?
+  A: Drag the right-bottom corner in the gray section of the window. It's the resizing section.
+  
+  Q: How to move my drawing board on computer side?
+  A: If you have found the resizing section, all spaces right of resizing section are the move section. Drag there to move your drawing board.
+     If thats not clear enough. Just find the place which wrote "tip" when the program launched, drag it to move your drawing board.
+  
+  Q: I'm done. How do I suppose to do to close my drawing board?
+  A: Double click the resizing section to close you drawing board.
+  
+  Q: I don't want to draw on portrait orientation, how do I suppose to do to change the orientation of my drawing board?
+  A: This shall be done on mobile side. Touch your menu button on hardware keyboard, you will see a control panel, touch the right-bottom button to rotate the drawing board on computer side.
+
+  Q: Can I resize my drawing board on mobile side? How shall I suppose to do?
+  A: It's not implemented yet, but it's on the plan.
+  
+  Q: Can I move my drawing board on mobile side? How shall I suppose to do?
+  A: It's not implemented yet, but it's on the plan.
+
+Issues:
+
+  1. Image transfer on mobile has some delay.
+  2. Sometimes computer side stops transferring the image to mobile.
+  
+Thank you for reading all these. Having a good experience on using VirualBamboo!
